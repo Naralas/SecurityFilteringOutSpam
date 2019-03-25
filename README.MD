@@ -1,0 +1,1 @@
+Dataset taken from https://github.com/Gago993/SpamFilterMachineLearning
